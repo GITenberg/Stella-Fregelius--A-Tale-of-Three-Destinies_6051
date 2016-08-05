@@ -1,0 +1,31 @@
+_repo: Stella-Fregelius--A-Tale-of-Three-Destinies_6051
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Rider
+    - Haggard, Henry Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: ''
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventors -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Spiritualism -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: 'Stella Fregelius: A Tale of Three Destinies'
+url: http://www.gutenberg.org/ebooks/6051
